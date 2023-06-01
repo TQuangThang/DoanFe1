@@ -1,0 +1,22 @@
+.box{
+ 
+    background: green;
+}
+
+/*table  */
+@media (min-width:768px) {
+    .box{
+       
+       
+        background: orange;
+    }
+}
+@media (min-width:992px) {
+    .box{
+        
+        background: red;
+    }
+    .box:hover{
+        background: yellow;
+    }
+}
