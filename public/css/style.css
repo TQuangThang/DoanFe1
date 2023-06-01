@@ -15,12 +15,15 @@
 }
 
 
-
+.baner-img{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
 
 
 
 .baner-img .col-md-3 {
-  margin: 20px 0;
+  
   position: relative;
   overflow: hidden;
 }
@@ -291,7 +294,9 @@
 
 
 
-
+.chia4{
+  margin-bottom: 50px;
+}
 .chia4 .col-6 {
   position: relative;
   overflow: hidden;
@@ -706,7 +711,10 @@
 .viewport-lg .primary-header .header-menu-wrap {
   display: block !important;
 }
-
+.text{
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
 
 
 
